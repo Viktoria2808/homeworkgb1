@@ -6,4 +6,4 @@ for word in range(len(new_task)):
          print(word, new_task[word][:10])
 
 
-
+##
