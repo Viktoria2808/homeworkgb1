@@ -6,3 +6,4 @@ while number > 0:
        chislo = number % 10
    number = number // 10
 print('Самая большая цифра числа: ', chislo)
+###
