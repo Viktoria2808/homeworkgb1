@@ -9,3 +9,4 @@ print('{0}; {1}; {2};'.format(hour, min, sek))
 print('{}'.format([hour, min, sek]))
 time = '%d:%d:%d'% (hour, min, sek)
 print(time)
+###
