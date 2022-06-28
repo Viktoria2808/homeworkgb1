@@ -6,4 +6,4 @@ for c in my_list: # с- каждый элемент в списке
         i = i + 1 # или i+=1
 my_list.insert(i, reit) # insert позволяет поставить элемент по индексу
 print(my_list)
-
+#
