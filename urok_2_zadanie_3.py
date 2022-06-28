@@ -4,3 +4,4 @@ month = int(input('Введите месяц в виде целого числа
 if month in dict_month:
     print(list_month[month-1]) #так как январь должен быть не 0, а 1
     print(dict_month[month])
+    ###

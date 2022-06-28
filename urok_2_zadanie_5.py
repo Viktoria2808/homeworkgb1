@@ -7,3 +7,4 @@ for c in my_list: # с- каждый элемент в списке
 my_list.insert(i, reit) # insert позволяет поставить элемент по индексу
 print(my_list)
 
+##
