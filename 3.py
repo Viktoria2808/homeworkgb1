@@ -5,4 +5,4 @@ while (number != 0):
     sum = sum + posl
     number = number // 10
 print('Сумма чисел равна: ', sum)
-
+###
