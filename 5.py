@@ -17,4 +17,5 @@ elif (vyrochka < izderzhki):
     print('убыток равен: ', ubitok)
 else:
     print('Прибыль равна нулю')
+    #
 
