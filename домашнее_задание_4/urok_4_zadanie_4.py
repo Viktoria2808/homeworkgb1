@@ -7,3 +7,5 @@ for i in my_list:
         d[i] = 1
 new_list = [el for el in my_list if d[el] == 1]
 print(new_list)
+
+#Не получается сделать pull request
